@@ -1,0 +1,24 @@
+{
+  "name": "Glitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "10.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "version": "npm i --save discord.js@11.5.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-anti-spam": "^2.4.1",
+    "discord.js": "^11.5.1",
+    "got": "^11.3.0",
+    "lowdb": "^1.0.0",
+    "quick.db": "^7.1.1"
+  }
+}
